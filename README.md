@@ -1,2 +1,2 @@
 # APPLE
-Adding an apple
+We have added an apple
