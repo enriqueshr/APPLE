@@ -1,2 +1,2 @@
 # APPLE
-We have added an apple
+We have added an apple and seeds
